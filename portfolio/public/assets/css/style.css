@@ -505,6 +505,13 @@ p {
   color: #fff;
   font-size: 15px;
 }
+.container-hero {
+  color: #ffffffb7;
+  font-weight: 500;
+  font-size: 13px;
+  margin-top: -10vh;
+}
+
 
 /*--------------------------------------------------------------
 # Breadcrumbs
