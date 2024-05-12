@@ -238,7 +238,9 @@ p {
 .navbar {
   padding: 0;
 }
-
+.unclickable{
+  cursor: pointer;
+}
 .navbar ul {
   margin: 0;
   padding: 0;
