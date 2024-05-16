@@ -343,7 +343,9 @@ p {
     left: -100%;
   }
 }
-
+.tech-icon {
+  font-size: xx-large;
+}
 /**
 * Mobile Navigation 
 */
