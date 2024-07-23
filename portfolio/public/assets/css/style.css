@@ -29,7 +29,12 @@ body {
   scrollbar-width: none; /* for Firefox */
   overflow-y: scroll;
 }
-
+.icons{
+  filter: grayscale(1);
+  width: 32px;
+  margin-top: -16px;
+  padding-left: 2px;
+}
 h1,
 h2,
 h3,
